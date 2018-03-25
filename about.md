@@ -20,3 +20,5 @@ Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 - React, React Native, Vue.js
 - gulp, webpack
 - Adobe Photoshop, Sketch
+- Java, C/C++, Rust
+- Machine Learning
