@@ -15,7 +15,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: 研究僧
+title: AMiner
 description: > #this means to ignore newlines until "nav_lists:"
   真正美丽的东西必须一方面跟自然一致，另一方面跟理想一致
 
@@ -91,7 +91,7 @@ paginate_path: /blog/page:num
 
 ## Post excerpts ##
 excerpt_separator: <!--more-->
-excerpt_type: html # text | html
+excerpt_type: text # text | html
 
 ## Sources ##
 # sources: bootcss #eg: bootcss | unpkg
