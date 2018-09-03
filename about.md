@@ -15,10 +15,5 @@ Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 {% endhighlight %}
 
 ## Skills
-
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
-- Java, C/C++, Rust
+- Java, C/C++, Python
 - Machine Learning
